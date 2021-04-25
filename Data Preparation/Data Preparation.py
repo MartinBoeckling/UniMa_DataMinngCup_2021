@@ -2,22 +2,24 @@
 import pandas as pd
 import jenkspy
 
+
 # initialize binning method for transactions
+def binning_data(filepath):
+    data = pd.read_csv(filepath, sep='|', encoding='utf-8')
+    print(data.columns)
+    # create click bin
+    for column in data:
+        if data[column].dtype == 'int64' and column.lower().find('id') == -1:
+            column_name = str(column + '_bins')
+            bin = jenkspy.jenks_breaks(data[column], nb_class=5)
+            print(bin)
+            bin[1] = (bin[1] + 0.1)
+            label = [str(column + '_{}'.format(x)) for x in range(5)]
+            data[column_name] = pd.cut(data[column], bins=bin, labels=label, include_lowest=True)
+    # write result to repo
+    return data
+
+
 # read data
-transaction_data = pd.read_csv(r'Dataset\transactions.csv', sep='|', encoding='utf-8')
-print(transaction_data.columns)
-# create click bin
-click_bins = jenkspy.jenks_breaks(transaction_data['click'], nb_class=5)
-click_bins[1] = (click_bins[1] + 0.1)
-transaction_data['click_bins'] = pd.cut(transaction_data['click'], bins=click_bins, labels=['click_1', 'click_2', 'click_3', 'click_4', 'click_5'], include_lowest=True)
-# create basket bin
-basket_bins = jenkspy.jenks_breaks(transaction_data['basket'], nb_class=5)
-basket_bins[1] = (basket_bins[1] + 0.1)
-transaction_data['basket_bins'] = pd.cut(transaction_data['basket'], bins=click_bins, labels=['basket_1', 'basket_2', 'basket_3', 'basket_4', 'basket_5'], include_lowest=True)
-# create order bin
-order_bins = jenkspy.jenks_breaks(transaction_data['order'], nb_class=5)
-order_bins[1] = (order_bins[1] + 0.1)
-transaction_data['order_bins'] = pd.cut(transaction_data['order'], bins=click_bins, labels=['order_1', 'order_2', 'order_3', 'order_4', 'order_5'], include_lowest=True)
-print(transaction_data)
-# write result to repo
-transaction_data.to_csv(r'Dataset\Prepared Dataset\transaction_bins.csv', index=False)
+data_binning = binning_data(r'Dataset\transactions.csv')
+data_binning.to_csv(r'Dataset\Prepared Dataset\transaction_bins.csv', index=False)
