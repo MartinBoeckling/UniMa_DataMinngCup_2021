@@ -1,101 +1,101 @@
-authors;;;"INFO: Python Coding is already able to delete the characters ""["" and ""]"", but I hit the Google API rate limit, which means I have to wait until I can update this dataset"
-['Janey Louise Jones'];;;
-['Boulemdais Rima'];;;
-['Victoria Aveyard'];;;
-['Bianka Nadja Goylmonil'];;;
-['Daniela Fugger', 'Natalie Kramer', 'Swantje Lindemann'];;;
-['J. R. Ward'];;;
-['Olivera Jovanović'];;;
-['Reiner Kümmel'];;;
-['Julie Kagawa'];;;
-['Ursula Hasler', 'Susann Opel-Götz'];;;
-['Barbara van den Speulhof'];;;
-['Friedrich Wilhelm Freiherr von Reden'];;;
-['Swen Harder'];;;
-['Lorena Lehnert'];;;
-['Carolin Langbein'];;;
-['Martina Gorgas'];;;
-;;;
-['Heike Abidi'];;;
-['Ralf Butschkow'];;;
-['Richelle Mead'];;;
-;;;
-['Peter Mitschitczek'];;;
-['Thomas Schramm'];;;
-['J. K. Rowling'];;;
-['Mariella Bach'];;;
-['Brigid Kemmerer'];;;
-['Lana Rotaru'];;;
-['Lana Rotaru'];;;
-;;;
-['Pia Pedevilla'];;;
-['Claire Barker'];;;
-['Susanne Tommes'];;;
-['Ars Edition'];;;
-['Sam Taplin'];;;
-['Johann Christoph Rasche'];;;
-['Sarah J. Maas'];;;
-['Andrzej Sapkowski'];;;
-['Andrzej Sapkowski'];;;
-['Margaret Atwood'];;;
-['Arthur Philipp'];;;
-['V. E. Schwab'];;;
-['Terry Pratchett'];;;
-['Edward Hirsch'];;;
-['Megumi Iwasa'];;;
-['Lee Stringer'];;;
-['Leigh Bardugo'];;;
-['Leigh Bardugo'];;;
-['Aloysius Bertrand', 'John T. Wright'];;;
-['United States. Air Force. Military Air Transport Service'];;;
-['Amanda Foody'];;;
-;;;
-['Wendy Froud', 'Brian Froud'];;;
-['J. R. Ward'];;;
-['Sven Nordqvist', 'Steffi Korda'];;;
-['Morgan Matson'];;;
-['Tad Williams'];;;
-['Markus Heitz'];;;
-['Tony DiTerlizzi'];;;
-;;;
-['Kallie George'];;;
-;;;
-['Catherine Doyle'];;;
-['Catherine Doyle'];;;
-['Stella Tack'];;;
-['Catherine Doyle'];;;
-['Melanie Gwin', 'Tanja Wildmoser'];;;
-['Radleigh Valentine'];;;
-['Edgardis Garlin', 'Stefan Merkle'];;;
-['Steven Erikson'];;;
-['Steven Erikson'];;;
-['Steven Erikson'];;;
-['Tad Williams'];;;
-['Hank Green'];;;
-['Andrzej Sapkowski'];;;
-['Susanne Hartung', 'Petra Wihofszky', 'Michael T. Wright'];;;
-['Frauke Schade'];;;
-['Cornelia Giebichenstein'];;;
-['Uticha Marmon'];;;
-['Nick Hornby'];;;
-['Odin Austin Shafer'];;;
-['Felicity Brooks'];;;
-['Philip Kiefer'];;;
-['Laura Leintz'];;;
-['Hannah Watson'];;;
-['Andrea Erne'];;;
-['Nele Moost', 'Annet Rudolph'];;;
-['Jessica Sanders'];;;
-['Abigail Wheatley'];;;
-['Franz Joseph Lauth'];;;
-['Adelgunde Publishing'];;;
-['John Green'];;;
-['Holly Black'];;;
-['Noel Green'];;;
-['Ryan Graudin'];;;
-['Brigitte Blobel'];;;
-['Raquel J. Palacio'];;;
-['Wilfried Ferchhoff'];;;
-['Kira Licht'];;;
-['Nena Tramountani'];;;
-['Glenn Cooper'];;;
+title,author
+"Princess Poppy: The Big Mix Up,""""""Janey Louise Jones"""""","
+"Einfach zeichnen! Step by Step,""""""Boulemdais Rima"""""","
+"Red Queen 1,""""""Victoria Aveyard"""""","
+"Meine Kindergarten-Freunde (Pirat),""""""Bianka Nadja Goylmonil"""""","
+"Mein groÃŸes Schablonen-Buch - Wilde Tiere,""""""Elizabeth Golding"""""","
+"Ewig geliebt,""""""J. R. Ward"""""","
+"Meine Sticker-Tiere,""""""Olivera Jovanovi\u0107"""""","
+"Unsterblich 01 - Tor der DÃ¤mmerung,""""""Reiner K\u00fcmmel"""""","
+"Unsterblich 02 - Tor der Nacht,""""""Julie Kagawa"""""","
+"Pedro und die Bettler von Cartagena,""""""Ursula Hasler"""", """"Susann Opel-G\u00f6tz"""""","
+"Freundebuch - Einhorn-Paradies - Meine Freunde,""""""Barbara van den Speulhof"""""","
+"Die HaushÃ¶rerin,""""""Friedrich Wilhelm Freiherr von Reden"""""","
+"Reiter der schwarzen Sonne,""""""Swen Harder"""""","
+"WAS IST WAS Quiz Autos,""""""Lorena Lehnert"""""","
+"WAS IST WAS Quiz LÃ¤nder der Welt,""""""Carolin Langbein"""""","
+"WAS IST WAS Quiz FuÃŸball,""""""Martina Gorgas"""""","
+,,
+"Und dann kamst du,""""""Heike Abidi"""""","
+"Ich hab einen Freund, der ist Astronaut,""""""Ralf Butschkow"""""","
+"Vampire Academy 06,""""""Richelle Mead"""""","
+,,
+"Wir spielen Kasperltheater,""""""Peter Mitschitczek"""""","
+"Der Herr der Ringe,""""""Thomas Schramm"""""","
+"Harry Potter 4 and the Goblet of Fire,""""""J. K. Rowling"""""","
+"Covet,""""""Mariella Bach"""""","
+"A Vow So Bold and Deadly,""""""Brigid Kemmerer"""""","
+"Kiss Me Never (Crushed-Trust-Reihe 1),""""""Lana Rotaru"""""","
+"Hold Me Tonight (Crushed-Trust-Reihe 2),""""""Lana Rotaru"""""","
+"Fingerstempel-SpaÃŸ Kunterbunt,""""""Fiona Watt"""""","
+"Fingerstempel-SpaÃŸ Tiere,""""""Pia Pedevilla"""""","
+"Picklewitch & Jack and the Cuckoo Cousin,""""""Claire Barker"""""","
+"Spiele-Klassiker Gummitwist-Set,""""""Susanne Tommes"""""","
+"Freundebuch - Handlettering - Meine Freunde,""""""Viktoria Schl\u00fcnzen"""""","
+"Mein Wisch-und-weg-Buch: GroÃŸbuchstaben,""""""Sam Taplin"""""","
+"Nichts,""""""Johann Christoph Rasche"""""","
+"A Court of Thorns and Roses. Acotar Adult Edition,""""""Sarah J. Maas"""""","
+"Das Schwert der Vorsehung,""""""Andrzej Sapkowski"""""","
+"Zeit des Sturms,""""""Andrzej Sapkowski"""""","
+"The Testaments,""""""Margaret Atwood"""""","
+"Die Dunkelmagierin,""""""Arthur Philipp"""""","
+"The Invisible Life of Addie LaRue,""""""Victoria Schwab"""""","
+"Small Gods,""""""Terry Pratchett"""""","
+"The Night Parade,""""""Edward Hirsch"""""","
+"Viele GrÃ¼ÃŸe, Deine Giraffe!,""""""Megumi Iwasa"""""","
+"Winter Stories,""""""Lee Stringer"""""","
+"Goldene Flammen,""""""Leigh Bardugo"""""","
+"Eisige Wellen,""""""Leigh Bardugo"""""","
+"Gaspard de la Nuit,""""""Aloysius Bertrand"""", """"John T. Wright"""""","
+"Mats & Milad,""""""United States. Air Force. Military Air Transport Service"""""","
+"Ace of Shades,""""""Amanda Foody"""""","
+,,
+"Brian Froud's Faeries' Tales,""""""Wendy Froud"""", """"Brian Froud"""""","
+"Black Dagger - Phury & Cormia,""""""J. R. Ward"""""","
+"Das groÃŸe Bastelbuch fÃ¼r kreative Entdecker,""""""Andrea Potocki"""""","
+"It Only Happens in the Movies,""""""Morgan Matson"""""","
+"Brothers of the Wind,""""""Tad Williams"""""","
+"Der Triumph der Zwerge,""""""Markus Heitz"""""","
+"Die Spiderwick Geheimnisse 01 - Eine unglaubliche Entdeckung,""""""Tony DiTerlizzi"""""","
+"Die Spiderwick Geheimnisse 02 - GefÃ¤hrliche Suche,""""""Jamie Purviance"""""","
+"Die Chroniken von Narnia - Illustrierte Gesamtausgabe,""""""Kallie George"""""","
+,,
+"Dangerous Boys - Wenn du mich findest,""""""Catherine Doyle"""""","
+"Dangerous Boys - Wenn wir uns verlieren,""""""Catherine Doyle"""""","
+"Kiss Me Twice - Kiss the Bodyguard 2,""""""Stella Tack"""""","
+"Dangerous Boys - Wenn ich dir vertraue,""""""Catherine Doyle"""""","
+"Endlich groÃŸe Schwester,""""""Melanie Gwin"""", """"Tanja Wildmoser"""""","
+"Aus den Filmen zu Harry Potter: Eine magische Reise: Alles fÃ¼r deine Fahrt nach Hogwarts,""""""Radleigh Valentine"""""","
+"TrÃ¶tsch Mein erstes Ausmalbuch,""""""Edgardis Garlin"""", """"Stefan Merkle"""""","
+"Das Spiel der GÃ¶tter 18,""""""Steven Erikson"""""","
+"Das Spiel der GÃ¶tter 19,""""""Steven Erikson"""""","
+"Das Spiel der GÃ¶tter 17,""""""Steven Erikson"""""","
+"Die Hexenholzkrone 1,""""""Tad Williams"""""","
+"An Absolutely Remarkable Thing,""""""Hank Green"""""","
+"Der letzte Wunsch,""""""Andrzej Sapkowski"""""","
+"Geschichten aus dem gefÃ¤hrlichen KÃ¶nigreich,""""""Susanne Hartung"""", """"Petra Wihofszky"""", """"Michael T. Wright"""""","
+"Astrid Lindgren,""""""Frauke Schade"""""","
+"Meine Kindergarten-Freunde (Pferde),""""""Cornelia Giebichenstein"""""","
+"Mein Freund Salim,""""""Uticha Marmon"""""","
+"A Long Way Down,""""""Nick Hornby"""""","
+"League of Legends. Die Reiche von Runeterra,""""""Odin Austin Shafer"""""","
+"Mein Immer-wieder-Stickerbuch: Ostern,""""""Felicity Brooks"""""","
+"Escape-Stickerbuch - Juwelenraub,""""""Philip Kiefer"""""","
+"Mein Glitzer-Sticker-Schloss: Meerjungfrauen,""""""Laura Leintz"""""","
+"Mein Immer-wieder-Stickerbuch: Im Sommer,""""""Hannah Watson"""""","
+"Wow! Das Metallic-Stickerbuch - Abenteuer Unterwasserwelt,""""""Andrea Erne"""""","
+"Der kleine Rabe Socke: Fehler finden mit dem kleinen Raben Socke,""""""Nele Moost"""""","
+"Mein Anziehpuppen-Stickerbuch: EinhÃ¶rner,""""""Florian Schroeder"""""","
+"Mein Immer-wieder-Stickerbuch: Dschungel,""""""Abigail Wheatley"""""","
+"Rune,""""""Franz Joseph Lauth"""""","
+"Mein erstes Bastelbuch,""""""Adelgunde Publishing"""""","
+"Tortues Ã  l'infini,""""""John Green"""""","
+"The Cruel Prince,""""""Holly Black"""""","
+"Advanced Potion Making,""""""Noel Green"""""","
+"The Walled City,""""""Ryan Graudin"""""","
+"Du hast aber Mut!,""""""Brigitte Blobel"""""","
+"Wunder Sieh mich nicht an,""""""Raquel J. Palacio"""""","
+"Die TÃ¶chter des Drachen/Der Thron der Libelle,""""""Wilfried Ferchhoff"""""","
+"Lovely Curse, Band 1: Erbin der Finsternis,""""""Kira Licht"""""","
+"City of Elements 1,""""""Nena Tramountani"""""","
+"Der siebte Sohn,""""""Glenn Cooper"""""","
