@@ -32,6 +32,6 @@ def extract_null_authors(filepath):
 
 # read data
 data_binning = binning_data(r'Dataset/transactions.csv')
-data_binning.to_csv(r'Dataset\Prepared Dataset\transaction_bins.csv', index=False)
+data_binning.to_csv(r'Dataset\Prepared Dataset\transaction_bins.csv', sep='|', index=False, encoding='utf-8')
 data_no_authors = extract_null_authors(r'Dataset/items.csv')
 data_no_authors.to_csv('Dataset/Prepared Dataset/items_withoutAuthor.csv', sep='|', index=False, encoding='utf-8')
